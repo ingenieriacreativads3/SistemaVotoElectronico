@@ -15,6 +15,7 @@ public class Padron {
     
     private final int id;
     private Zona zonaDistribucion;
+    private int borrame;
             
     protected final static Padron OBJETO_INVALIDO = new Padron();
 

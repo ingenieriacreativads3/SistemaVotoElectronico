@@ -7,22 +7,14 @@ package sistemavotoelectronicov3.Vista;
 
 import java.net.URL;
 import java.util.ResourceBundle;
-import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
-import javafx.scene.control.Button;
-import javafx.scene.control.ComboBox;
 
 /**
  * FXML Controller class
  *
  * @author Tomás Contreras
  */
-public class VistaPrincipalController implements Initializable {
-
-    @FXML
-    private Button primerboton;
-    @FXML
-    private ComboBox<?> primercombobox;
+public class InicioController implements Initializable {
 
     /**
      * Initializes the controller class.
